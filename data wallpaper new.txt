@@ -1,8 +1,8 @@
 [
   {
     "name": "Stripes Metal Lighting Rgb",
-    "url": "https://iili.io/J7mCCyG.jpg",
-    "previewUrl": "https://iili.io/J7mCCyG.jpg",
+    "url": "https://iili.io/JY2jieR.jpg",
+    "previewUrl": "https://iili.io/JY2jieR.jpg",
     "categories": "Abstract, Amoled, Neon",
     "premium": false
   },
