@@ -5,9 +5,9 @@
       "ShowLoadingAds":true,
       "ClickCount":1,
 
-      "huawei_inter":"i1rjt90ovg",
-      "huawei_banner":"h9tpmwhwzr",
-      "huawei_native":"r0pri1mrmg",
+      "huawei_inter":"s67lw8vqoa",
+      "huawei_banner":"k6zwq28wyw",
+      "huawei_native":"s8u8s5pdpo",
      
       "yandex_banner":"demo-banner-yandex",
       "yandex_inter":"demo-interstitial-yandex",
